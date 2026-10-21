@@ -6,10 +6,10 @@
 // @match        https://*.zybooks.com/*
 // @grant        none
 // @supportURL   https://github.com/AdoreJc/ZyBooks_auto/issues
-// @@homepage    https://github.com/MillerZZZ/zybook-reviewer.git
+// @@homepage    https://github.com/MillerZZZ/zybook-review.git
 // @license      MIT
 // @run-at context-menu
-// @downloadURL  https://github.com/MillerZZZ/zybook-reviewer/raw/refs/heads/main/zybook-review-mode.user.js
+// @downloadURL  https://github.com/MillerZZZ/zybook-review/raw/refs/heads/main/zybook-review-mode.user.js
 // ==/UserScript==
 
 async function sleep(ms) {
