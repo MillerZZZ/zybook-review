@@ -1,16 +1,15 @@
 // ==UserScript==
-// @name         ZyBooks auto
+// @name         zyBook Review Mode
 // @namespace    http://tampermonkey.net/
-// @version      1.1.2
-// @description  Automatically do ZyBooks
+// @version      2.1.2
 // @author       adorejc
 // @match        https://*.zybooks.com/*
 // @grant        none
 // @supportURL   https://github.com/AdoreJc/ZyBooks_auto/issues
+// @@homepage    https://github.com/MillerZZZ/zybook-reviewer.git
 // @license      MIT
 // @run-at context-menu
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/MillerZZZ/zybook-reviewer/raw/refs/heads/main/zybook-review-mode.user.js
 // ==/UserScript==
 
 async function sleep(ms) {
