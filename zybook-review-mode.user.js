@@ -6,7 +6,7 @@
 // @match        https://*.zybooks.com/*
 // @grant        none
 // @supportURL   https://github.com/AdoreJc/ZyBooks_auto/issues
-// @@homepage    https://github.com/MillerZZZ/zybook-review.git
+// @homepage    https://github.com/MillerZZZ/zybook-review.git
 // @license      MIT
 // @run-at context-menu
 // @downloadURL  https://github.com/MillerZZZ/zybook-review/raw/refs/heads/main/zybook-review-mode.user.js
